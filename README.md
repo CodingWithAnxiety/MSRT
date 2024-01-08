@@ -7,8 +7,22 @@ Take a moment to familiarize yourself with the repository and understand where t
 
 ## Credits
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/contributorUsername1">
+        <img src="https://github.com/CodingWithAnxiety.png?size=100" width="100px;" alt=""/>
+        <br />
+        <sub><b>Ownership</b></sub>
+      </a>
+      <br />
+    </td>
+        <td align="center">
+      <a href="https://github.com/all-contributors">
+        <img src="https://github.com/all-contributors.png?size=100" width="100px;" alt=""/>
+        <br />
+        <sub><b>For AllContributors</b></sub>
+      </a>
+      <br/>
+  </tr>
+</table>
