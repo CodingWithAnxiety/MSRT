@@ -36,5 +36,6 @@ This section will be updated when the repository is more full.
 - [ ] Add google doc templates and .docx files
 - [ ] Add guides README
 - [ ] Finish project README
-For [Grit's](https://github.com/CodingWithAnxiety) personal goals, go to the [PERSONAL GOALS.md](./PERSONAL GOALS.md) page.
+
+For [Grit's](https://github.com/CodingWithAnxiety) personal goals, go to the [PERSONAL GOALS.md](./PERSONAL%20GOALS.md) page.
 
